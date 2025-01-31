@@ -47,13 +47,13 @@ const Hero: FunctionComponent = () => {
 
   return (
     <div className={styles.hero}>
-      <img className={styles.gridLayersV3} alt="" src={GridLayer} />
+      <img className={styles.gridLayersV3} alt="Grid layer background" src={GridLayer} />
       <div className={styles.frameParent}>
         <div className={styles.frameGroup}>
           <div className={styles.lightningFilledParent}>
             <img
               className={styles.lightningFilledIcon}
-              alt=""
+              alt="Lightning icon"
               src={lightningFilledSvg}
             />
             <div className={styles.secureGlobalFast}>Secure. Global. fast</div>
@@ -90,7 +90,7 @@ const Hero: FunctionComponent = () => {
                 <div className={styles.downloadApp}>Watch Demo</div>
                 <img
                   className={styles.playCircleIcon}
-                  alt="Play circle"
+                  alt="Play circle icon"
                   src={PlayCircle}
                 />
               </div>
@@ -99,10 +99,10 @@ const Hero: FunctionComponent = () => {
         </div>
         <div className={styles.frameParent1}>
           <div className={styles.ellipseParent}>
-            <img className={styles.frameItem} alt="" src={Ellipse376} />
-            <img className={styles.frameInner} alt="" src={Ellipse377} />
-            <img className={styles.frameInner} alt="" src={Ellipse378} />
-            <img className={styles.frameInner} alt="" src={Ellipse379} />
+            <img className={styles.frameItem} alt="Ellipse 376" src={Ellipse376} />
+            <img className={styles.frameInner} alt="Ellipse 377" src={Ellipse377} />
+            <img className={styles.frameInner} alt="Ellipse 378" src={Ellipse378} />
+            <img className={styles.frameInner} alt="Ellipse 379" src={Ellipse379} />
           </div>
           <div className={styles.trustedBy3k}>
             Trusted by 3k+ Students Globally
@@ -125,11 +125,11 @@ const Hero: FunctionComponent = () => {
         </div>
       </div>
       <div className={styles.component1Group}>
-        <img className={styles.component1Icon1} alt="" src={Pay4meLogo} />
+        <img className={styles.component1Icon1} alt="Pay4me logo" src={Pay4meLogo} />
         <div className={styles.frameParent2}>
           <div className={styles.homeParent}>
             <div className={styles.trustedBy3k}>Home</div>
-            <img className={styles.lineIcon} alt="Line" src={Line1} />
+            <img className={styles.lineIcon} alt="Line icon" src={Line1} />
           </div>
           <div className={styles.trustedBy3k}>About</div>
           <div className={styles.trustedBy3k}>Blog</div>
@@ -155,7 +155,7 @@ const Hero: FunctionComponent = () => {
       <div className={styles.component22}>
         <img
           className={styles.component22Child}
-          alt=""
+          alt="Group 1000003531"
           src={Group_1000003531}
         />
         <div className={styles.frameParent3}>
@@ -168,14 +168,14 @@ const Hero: FunctionComponent = () => {
                 </b>
                 <img
                   className={styles.eyeIcon}
-                  alt="Eye"
+                  alt="Eye icon"
                   src={Eye}
                   onClick={toggleBalanceVisibility}
                 />
               </div>
             </div>
             <div className={styles.dollar01Parent}>
-              <img className={styles.dollar01Icon} alt="Dollar" src={Dollar} />
+              <img className={styles.dollar01Icon} alt="Dollar icon" src={Dollar} />
               <div className={styles.usd}>$USD</div>
             </div>
           </div>
@@ -184,7 +184,7 @@ const Hero: FunctionComponent = () => {
               <div className={styles.addParent}>
                 <img
                   className={styles.addIcon}
-                  alt="Add"
+                  alt="Add icon"
                   src={Add}
                   onClick={fundWallet}
                 />
@@ -193,7 +193,7 @@ const Hero: FunctionComponent = () => {
               <div className={styles.addParent}>
                 <img
                   className={styles.addIcon}
-                  alt="Export"
+                  alt="Export icon"
                   src={Export}
                   onClick={withdrawMoney}
                 />
@@ -213,27 +213,27 @@ const Hero: FunctionComponent = () => {
             <div className={styles.iconoirstarSolidParent}>
               <img
                 className={styles.iconoirstarSolid}
-                alt="Star"
+                alt="Star icon"
                 src={StarSolid}
               />
               <img
                 className={styles.iconoirstarSolid}
-                alt="Star"
+                alt="Star icon"
                 src={StarSolid}
               />
               <img
                 className={styles.iconoirstarSolid}
-                alt="Star"
+                alt="Star icon"
                 src={StarSolid}
               />
               <img
                 className={styles.iconoirstarSolid}
-                alt="Star"
+                alt="Star icon"
                 src={StarSolid}
               />
               <img
                 className={styles.iconoirstarSolid}
-                alt="Star"
+                alt="Star icon"
                 src={StarSolid}
               />
             </div>
@@ -241,7 +241,7 @@ const Hero: FunctionComponent = () => {
           </div>
         </div>
         <div className={styles.image134Parent}>
-          <img className={styles.image134Icon} alt="Techstars" src={Image134} />
+          <img className={styles.image134Icon} alt="Techstars logo" src={Image134} />
           <div className={styles.backedByTechstarsWrapper}>
             <div className={styles.starGoogleRating}>
               <p className={styles.backedBy}>Backed by</p>

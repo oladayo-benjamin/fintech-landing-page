@@ -1,4 +1,4 @@
-import { FunctionComponent } from "react";
+import { FunctionComponent } from "react"; 
 import GoogleLogo from "../assets/Googlelogowhite.svg";
 import Pay4me from "../assets/pay4me_logo.svg";
 import Sms from "../assets/sms.svg";
@@ -21,19 +21,20 @@ const Footer: FunctionComponent = () => {
       youtube: "https://www.youtube.com",
     };
 
-    window.open(socialMediaLinks[platform], "_blank");
+    window.open(socialMediaLinks[platform], "_blank", "noopener noreferrer");
   };
 
   // Function to handle the Apple Store download link click
   const handleAppleDownload = () => {
-    window.open("https://apps.apple.com/us/app/pay4me", "_blank"); // Replace with your app's actual link
+    window.open("https://apps.apple.com/us/app/pay4me", "_blank", "noopener noreferrer"); // Replace with your app's actual link
   };
 
   // Function to handle the Google Play download link click
   const handleGoogleDownload = () => {
     window.open(
       "https://play.google.com/store/apps/details?id=com.pay4me",
-      "_blank"
+      "_blank",
+      "noopener noreferrer"
     ); // Replace with your app's actual link
   };
 
@@ -54,6 +55,7 @@ const Footer: FunctionComponent = () => {
                       className={styles.supportpay4meapp}
                       href="mailto:support@pay4me.app"
                       target="_blank"
+                      rel="noopener noreferrer"  {/* Added rel="noopener noreferrer" */}
                     >
                       support@pay4me.app
                     </a>
