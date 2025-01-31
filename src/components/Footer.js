@@ -55,7 +55,7 @@ const Footer: FunctionComponent = () => {
                       className={styles.supportpay4meapp}
                       href="mailto:support@pay4me.app"
                       target="_blank"
-                      rel="noopener noreferrer"  {/* Added rel="noopener noreferrer" */}
+                      rel="noopener noreferrer"
                     >
                       support@pay4me.app
                     </a>
