@@ -1,0 +1,207 @@
+.frameChild {
+  position: absolute;
+  top: 57px;
+  left: 581px;
+  width: 881.4px;
+  height: 653.9px;
+}
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.fetatures {
+  position: relative;
+  text-transform: uppercase;
+}
+.lightningFilledParent {
+  box-shadow: 0px 3px 4px rgba(125, 137, 78, 0.04) inset,
+    0px -4px 4px rgba(237, 248, 195, 0.1) inset;
+  border-radius: 16px;
+  background-color: rgba(175, 226, 116, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  gap: 10px;
+}
+.whatTrulySets {
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-family: "Cabinet Grotesk";
+}
+.frameGroup {
+  width: 657px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frameIcon {
+  width: 48px;
+  position: relative;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.globalAccessibility {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.effortlesslySendTuition {
+  width: 291px;
+  position: relative;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Avenir;
+  color: #7d7d7d;
+  display: inline-block;
+}
+.globalAccessibilityParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.downloadApp {
+  position: relative;
+  font-weight: 500;
+}
+.sibarcodeScanDuotoneIcon {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.downloadAppParent {
+  box-shadow: 0px -4px 0px rgba(148, 197, 87, 0.55) inset,
+    0px 4px 0px rgba(149, 178, 113, 0.25) inset;
+  border-radius: 33px;
+  background-color: #afe274;
+  border: 1px solid #a4c47d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 16px;
+  gap: 12px;
+  font-size: 12px;
+  color: #242323;
+  font-family: Avenir;
+}
+.frameContainer {
+  box-shadow: -2px 2px 4px rgba(24, 109, 128, 0.05);
+  border-radius: 24px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 32px;
+  gap: 48px;
+}
+.component23Parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  font-size: 22px;
+  font-family: "Cabinet Grotesk";
+}
+.frameParent {
+  position: absolute;
+  top: 126px;
+  left: calc(50% - 574px);
+  width: 1147px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.groupParent {
+  align-self: stretch;
+  position: relative;
+  border-radius: 32px;
+  background-color: #e7fbcf;
+  height: 809px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.features {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 80px 77px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 10px;
+  color: #2f2f2f;
+  font-family: Avenir;
+}
+
+/* 📌 Tablet (≤1024px) */
+@media (max-width: 1024px) {
+  .features {
+    padding: 60px 5%;
+  }
+  .frameParent {
+    gap: 60px;
+  }
+  .component23Parent {
+    flex-direction: column;
+    text-align: center;
+    gap: 20px;
+  }
+  .whatTrulySets {
+    font-size: 40px;
+  }
+}
+
+/* 📌 Mobile (≤768px) */
+@media (max-width: 768px) {
+  .features {
+    padding: 40px 5%;
+    text-align: center;
+  }
+  .frameParent {
+    gap: 40px;
+  }
+  .whatTrulySets {
+    font-size: 32px;
+  }
+  .frameContainer {
+    padding: 24px;
+    gap: 32px;
+  }
+}
+
+/* 📌 Extra Small Screens (≤480px) */
+@media (max-width: 480px) {
+  .features {
+    padding: 30px 5%;
+  }
+  .whatTrulySets {
+    font-size: 28px;
+  }
+  .frameContainer {
+    padding: 20px;
+    gap: 24px;
+  }
+  .downloadAppParent {
+    flex-direction: column;
+    gap: 8px;
+  }
+}

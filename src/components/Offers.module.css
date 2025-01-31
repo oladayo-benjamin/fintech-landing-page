@@ -1,0 +1,370 @@
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.whatWeOffer {
+  position: relative;
+  text-transform: uppercase;
+}
+.lightningFilledParent {
+  box-shadow: 0px 3px 4px rgba(125, 137, 78, 0.04) inset,
+    0px -4px 4px rgba(237, 248, 195, 0.1) inset;
+  border-radius: 16px;
+  background-color: #f5fdec;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  gap: 10px;
+}
+.simplifiedPaymentsFor {
+  width: 767px;
+  position: relative;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  display: flex;
+  font-family: "Cabinet Grotesk";
+  color: #fdfdfd;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+  z-index: 0;
+}
+.frameChild {
+  width: 176.3px;
+  position: absolute;
+  margin: 0 !important;
+  top: 468px;
+  left: 300px;
+  height: 130.8px;
+  z-index: 0;
+}
+.frameIcon {
+  width: 64px;
+  position: relative;
+  height: 64px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.superFastTuition {
+  margin: 0;
+}
+.superFastTuitionContainer {
+  align-self: stretch;
+  position: relative;
+}
+.seamlesslyPayLocal {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: Avenir;
+  color: #7d7d7d;
+}
+.superFastTuitionAndSchoolParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frameParent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  z-index: 1;
+}
+.image4Icon {
+  width: 132px;
+  position: relative;
+  height: 48.8px;
+  object-fit: cover;
+}
+.image4Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.image130Icon {
+  width: 67px;
+  position: relative;
+  height: 67px;
+  object-fit: cover;
+}
+.imageParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 10px;
+  gap: 48px;
+}
+.frameParent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  z-index: 2;
+}
+.groupParent {
+  width: 459px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.04);
+  border-radius: 24px;
+  background-color: #fffbe4;
+  border: 1px solid #efeff9;
+  box-sizing: border-box;
+  height: 599px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px;
+  position: relative;
+  gap: 80px;
+}
+.frameItem {
+  width: 177.8px;
+  position: absolute;
+  margin: 0 !important;
+  top: 472px;
+  left: 294px;
+  height: 131.9px;
+  z-index: 0;
+}
+.imageIcon2 {
+  width: 121px;
+  position: relative;
+  height: 56px;
+  object-fit: cover;
+}
+.image3Icon {
+  width: 119px;
+  position: relative;
+  height: 56px;
+  object-fit: cover;
+}
+.imageGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.imageIcon3 {
+  width: 127px;
+  position: relative;
+  height: 56px;
+  object-fit: cover;
+}
+.frameParent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+  z-index: 2;
+}
+.groupContainer {
+  width: 459px;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.04);
+  border-radius: 24px;
+  background-color: #e7f8ff;
+  border: 1px solid #efeff9;
+  box-sizing: border-box;
+  height: 599px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px;
+  position: relative;
+  gap: 80px;
+}
+.frameDiv {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.downloadApp {
+  position: relative;
+  font-weight: 500;
+}
+.component1Icon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.frameInner {
+  width: 0.5px;
+  position: relative;
+  border-right: 0.5px solid #474646;
+  box-sizing: border-box;
+  height: 15.5px;
+}
+.component1Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.downloadAppParent {
+  box-shadow: 0px -4px 0px rgba(148, 197, 87, 0.55) inset,
+    0px 4px 0px rgba(149, 178, 113, 0.25) inset;
+  border-radius: 33px;
+  background-color: #afe274;
+  border: 1px solid #a4c47d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+  gap: 12px;
+  font-size: 18px;
+  color: #242323;
+  font-family: Avenir;
+}
+.frameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+  z-index: 1;
+  font-size: 32px;
+  font-family: "Cabinet Grotesk";
+}
+.groupIcon {
+  width: 583.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -71px;
+  left: -455px;
+  height: 433px;
+  opacity: 0.1;
+  z-index: 2;
+}
+.frameChild1 {
+  width: 583.7px;
+  position: absolute;
+  margin: 0 !important;
+  top: -81px;
+  left: 868px;
+  height: 433px;
+  opacity: 0.1;
+  z-index: 3;
+}
+.frameParent {
+  position: absolute;
+  top: 107px;
+  left: 221px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.desktop14 {
+  align-self: stretch;
+  position: relative;
+  background-color: #0e0e0e;
+  height: 1158px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.offers {
+  width: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 10px;
+  color: #2f2f2f;
+  font-family: Avenir;
+}
+
+/* Reduce padding for tablets */
+@media (max-width: 1024px) {
+  .frameParent {
+    flex-direction: column;
+    gap: 40px;
+  }
+}
+
+/* Adjust layout for mobile screens */
+@media (max-width: 768px) {
+  .frameParent {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .frameContainer {
+    flex-direction: column;
+    gap: 24px;
+    padding: 20px;
+  }
+  .frameGroup {
+    width: 100%;
+    text-align: center;
+  }
+  .lightningFilledParent {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .component23Parent {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+/* Extra small screens (phones) */
+@media (max-width: 480px) {
+  .frameGroup {
+    width: 100%;
+  }
+  .whatTrulySets {
+    font-size: 28px;
+  }
+  .globalAccessibility {
+    font-size: 16px;
+  }
+  .effortlesslySendTuition {
+    font-size: 12px;
+  }
+  .downloadAppParent {
+    flex-direction: column;
+    width: 100%;
+  }
+  .frameIcon {
+    width: 36px;
+    height: 36px;
+  }
+}

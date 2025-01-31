@@ -1,0 +1,223 @@
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.faqs1 {
+  position: relative;
+  text-transform: uppercase;
+}
+.lightningFilledParent {
+  box-shadow: 0px 3px 4px rgba(125, 137, 78, 0.04) inset,
+    0px -4px 4px rgba(237, 248, 195, 0.1) inset;
+  border-radius: 16px;
+  background-color: rgba(175, 226, 116, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  gap: 10px;
+}
+.gotQuestions {
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+}
+.weveGotAnswers {
+  width: 437px;
+  position: relative;
+  font-size: 24px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: Avenir;
+  color: #7d7d7d;
+  display: inline-block;
+}
+.gotQuestionsParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 48px;
+  font-family: "Cabinet Grotesk";
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frameChild {
+  width: 436px;
+  position: relative;
+  border-radius: 24px;
+  height: 493px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.whatIsThe {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+}
+.whatIsThePay4meAppWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.addIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.frameParent1 {
+  width: 652px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frameItem {
+  width: 653px;
+  position: relative;
+  border-top: 1px solid #d8d8d8;
+  box-sizing: border-box;
+  height: 1px;
+}
+.whatIsThePaymentProcessingParent {
+  width: 650px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.howDoesThe {
+  position: relative;
+  line-height: 120%;
+}
+.frameDiv {
+  border-radius: 24px;
+  background-color: #fcfcfc;
+  border: 0.5px solid #d8d8d8;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 40px;
+  gap: 48px;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 20px;
+  font-family: "Cabinet Grotesk";
+}
+.frameParent {
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 77px;
+}
+.faqs {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 10px;
+  color: #2f2f2f;
+  font-family: Avenir;
+}
+
+/* 📌 Tablet (≤1024px) */
+@media (max-width: 1024px) {
+  .faqs {
+    padding: 60px 40px;
+  }
+  .frameParent {
+    gap: 40px;
+  }
+  .frameContainer {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 24px;
+  }
+  .gotQuestions {
+    font-size: 36px;
+  }
+  .weveGotAnswers {
+    font-size: 18px;
+  }
+}
+
+/* 📌 Mobile (≤768px) */
+@media (max-width: 768px) {
+  .faqs {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  .frameParent {
+    gap: 30px;
+  }
+  .frameContainer {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .gotQuestions {
+    font-size: 28px;
+  }
+  .weveGotAnswers {
+    font-size: 16px;
+  }
+  .frameDiv {
+    padding: 30px;
+    gap: 32px;
+  }
+}
+
+/* 📌 Extra Small Screens (≤480px) */
+@media (max-width: 480px) {
+  .faqs {
+    padding: 30px 15px;
+  }
+  .gotQuestions {
+    font-size: 24px;
+  }
+  .weveGotAnswers {
+    font-size: 14px;
+  }
+  .frameDiv {
+    padding: 20px;
+    gap: 24px;
+  }
+}
+.answer {
+  display: none;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #f1f1f1;
+  border-radius: 8px;
+}
+
+.answer.open {
+  display: block;
+}

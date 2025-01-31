@@ -1,0 +1,269 @@
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.testimonials1 {
+  position: relative;
+  text-transform: uppercase;
+}
+.lightningFilledParent {
+  box-shadow: 0px 3px 4px rgba(125, 137, 78, 0.04) inset,
+    0px -4px 4px rgba(237, 248, 195, 0.1) inset;
+  border-radius: 16px;
+  background-color: rgba(175, 226, 116, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  gap: 10px;
+}
+.dontTakeOur {
+  width: 559px;
+  position: relative;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  display: flex;
+  font-family: "Cabinet Grotesk";
+  align-items: center;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frameWrapper {
+  width: 677px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.thumbnail1webpIcon {
+  position: absolute;
+  top: calc(50% - 196.5px);
+  left: calc(50% - 228.5px);
+  width: 457px;
+  height: 393px;
+  overflow: hidden;
+  object-fit: cover;
+}
+.jimmyAdewale {
+  position: relative;
+  letter-spacing: -0.03em;
+}
+.entrepreneur {
+  position: relative;
+  font-size: 14px;
+  line-height: 22px;
+  color: #ebebeb;
+}
+.jimmyAdewaleParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8px;
+}
+.component25Inner {
+  position: absolute;
+  top: 294px;
+  left: 19px;
+  width: 310px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.component25 {
+  width: 347px;
+  position: relative;
+  border-radius: 16px;
+  height: 375px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 0;
+}
+.icon {
+  position: absolute;
+  top: calc(50% - 210.5px);
+  left: calc(50% - 185.5px);
+  width: 384px;
+  height: 421px;
+  object-fit: cover;
+}
+.component24 {
+  width: 347px;
+  position: relative;
+  border-radius: 16px;
+  height: 375px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.component26 {
+  width: 347px;
+  position: relative;
+  border-radius: 16px;
+  height: 375px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.icon1 {
+  position: absolute;
+  top: calc(50% - 189.5px);
+  left: calc(50% - 309.5px);
+  width: 588px;
+  height: 392px;
+  object-fit: cover;
+}
+.component27 {
+  width: 347px;
+  position: relative;
+  border-radius: 16px;
+  height: 375px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.frameChild {
+  width: 47px;
+  position: absolute;
+  margin: 0 !important;
+  top: 164px;
+  left: 1214px;
+  border-radius: 33px;
+  height: 47px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 4;
+}
+.component25Parent {
+  width: 1281px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  gap: 36px;
+  font-size: 24px;
+  color: #fff;
+}
+.frameGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+  z-index: 0;
+}
+.frameItem {
+  width: 494.2px;
+  position: absolute;
+  margin: 0 !important;
+  top: -183px;
+  left: 939px;
+  height: 366.6px;
+  opacity: 0.6;
+  z-index: 1;
+}
+.frameParent {
+  width: 1230px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.testimonials {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 100px 80px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 10px;
+  color: #2f2f2f;
+  font-family: Avenir;
+}
+
+/* Reduce padding for tablets */
+@media (max-width: 1024px) {
+  .steps {
+    padding: 60px 50px;
+  }
+  .frameParent {
+    flex-direction: column;
+    gap: 40px;
+  }
+}
+
+/* Adjust layout for mobile screens */
+@media (max-width: 768px) {
+  .steps {
+    padding: 40px 30px;
+  }
+  .frameParent {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .frameContainer {
+    flex-direction: column;
+    gap: 24px;
+    padding: 20px;
+  }
+  .frameGroup {
+    width: 100%;
+    text-align: center;
+  }
+  .lightningFilledParent {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .component23Parent {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+/* Extra small screens (phones) */
+@media (max-width: 480px) {
+  .steps {
+    padding: 20px 15px;
+  }
+  .frameGroup {
+    width: 100%;
+  }
+  .whatTrulySets {
+    font-size: 28px;
+  }
+  .globalAccessibility {
+    font-size: 16px;
+  }
+  .effortlesslySendTuition {
+    font-size: 12px;
+  }
+  .downloadAppParent {
+    flex-direction: column;
+    width: 100%;
+  }
+  .frameIcon {
+    width: 36px;
+    height: 36px;
+  }
+}

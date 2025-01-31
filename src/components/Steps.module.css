@@ -1,0 +1,581 @@
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.howItWorks {
+  position: relative;
+  text-transform: uppercase;
+}
+.lightningFilledParent {
+  box-shadow: 0px 3px 4px rgba(125, 137, 78, 0.04) inset,
+    0px -4px 4px rgba(237, 248, 195, 0.1) inset;
+  border-radius: 16px;
+  background-color: rgba(175, 226, 116, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  gap: 10px;
+}
+.simpleStepsTo {
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  font-family: "Cabinet Grotesk";
+}
+.frameGroup {
+  width: 657px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.div {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.downloadTheMobile {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+  z-index: 0;
+}
+.getStartedBy {
+  width: 373px;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: Avenir;
+  color: #7d7d7d;
+  display: inline-block;
+  z-index: 1;
+}
+.component1Icon {
+  width: 112px;
+  position: absolute;
+  margin: 0 !important;
+  top: -123px;
+  left: 282px;
+  height: 112px;
+  opacity: 0.02;
+  z-index: 2;
+}
+.downloadTheMobileAppParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 32px;
+  font-size: 24px;
+  color: #242323;
+  font-family: "Cabinet Grotesk";
+}
+.parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+  z-index: 0;
+}
+.component1Icon1 {
+  width: 160.7px;
+  position: relative;
+  height: 160.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.component6 {
+  width: 160.7px;
+  height: 160.7px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.pay4meQrcodeRoundedsvg {
+  position: absolute;
+  top: calc(50% - 82px);
+  left: calc(50% - 82.01px);
+  border-radius: 7.86px;
+  background-color: #fff;
+  width: 164px;
+  height: 164px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 7.9px;
+  box-sizing: border-box;
+  max-width: 2143.28px;
+}
+.pay4meQrcodeRoundedsvgWrapper {
+  width: 269.7px;
+  position: relative;
+  border-radius: 16px;
+  background-color: #242323;
+  border: 0.6px solid #e0e0e0;
+  box-sizing: border-box;
+  height: 214px;
+  z-index: 1;
+}
+.component2Icon {
+  width: 88px;
+  position: absolute;
+  margin: 0 !important;
+  top: 176px;
+  left: -45px;
+  height: 88px;
+  opacity: 0.2;
+  z-index: 2;
+}
+.frameParent2 {
+  box-shadow: -2px 2px 4px rgba(24, 109, 128, 0.05);
+  border-radius: 24px;
+  background-color: #fff;
+  border: 0.5px solid #e0e0e0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 32px;
+  position: relative;
+  gap: 48px;
+}
+.signUpOn {
+  align-self: stretch;
+  position: relative;
+  line-height: 28px;
+}
+.signUpWith {
+  width: 373px;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  font-family: Avenir;
+  color: #7d7d7d;
+  display: inline-block;
+}
+.signUpOnTheAppParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: 24px;
+  color: #242323;
+  font-family: "Cabinet Grotesk";
+}
+.group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.time1 {
+  position: absolute;
+  top: 34.02%;
+  left: 36.96%;
+  line-height: 9.02px;
+  font-weight: 600;
+}
+.time {
+  position: absolute;
+  width: 35.75%;
+  top: calc(50% - 11.26px);
+  right: 71.94%;
+  left: -7.69%;
+  height: 22.1px;
+}
+.levelsIcon {
+  position: absolute;
+  width: 35.75%;
+  top: calc(50% - 11.26px);
+  right: -5.44%;
+  left: 69.69%;
+  max-width: 100%;
+  overflow: hidden;
+  height: 22.1px;
+}
+.frameChild {
+  width: 31.3px;
+  box-shadow: 0px 0.7324033975601196px 0.73px rgba(0, 0, 0, 0.04);
+  border-radius: 5.83px;
+  background-color: #343434;
+  height: 5.8px;
+}
+.frameItem {
+  width: 5.8px;
+  box-shadow: 0px 0.7324033975601196px 0.73px rgba(0, 0, 0, 0.04);
+  border-radius: 5.83px;
+  background-color: #343434;
+  height: 5.8px;
+}
+.frameParent4 {
+  position: absolute;
+  top: -0.08px;
+  left: calc(50% - 33.16px);
+  border-radius: 0px 0px 7.29px 7.29px;
+  background-color: #1e1e1e;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 5.8px 11.7px;
+  gap: 5.8px;
+}
+.statusBarIphone {
+  width: 161.1px;
+  position: relative;
+  height: 22.1px;
+}
+.component1Icon2 {
+  width: 69.3px;
+  position: relative;
+  height: 14.7px;
+}
+.signUp {
+  position: relative;
+  line-height: 120%;
+  font-weight: 800;
+}
+.name {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 500;
+}
+.johDoe {
+  position: relative;
+  line-height: 120%;
+}
+.johDoeWrapper {
+  align-self: stretch;
+  border-radius: 7.29px;
+  background-color: #fff;
+  border: 0.4px solid #e0e0e0;
+  box-sizing: border-box;
+  height: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8.7px 5.8px;
+  color: #dadada;
+}
+.nameParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5.8px;
+}
+.frameParent5 {
+  width: 161.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11.7px;
+  font-size: 8.02px;
+  color: #474646;
+}
+.signUpParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 8.7px 0px 0px;
+  gap: 11.7px;
+  text-align: left;
+  font-size: 8.75px;
+  color: #2b2b2b;
+  font-family: Avenir;
+}
+.statusBarIphoneParent {
+  width: 172.8px;
+  border-radius: 14.58px 14.58px 0px 0px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0px 5.8px;
+  box-sizing: border-box;
+  gap: 8.7px;
+}
+.component18 {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 92px);
+  border-radius: 23.33px 23.33px 0px 0px;
+  background-color: #1e1e1e;
+  height: 189px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 7.3px 5.8px 0px;
+  box-sizing: border-box;
+}
+.component18Wrapper {
+  width: 270px;
+  position: relative;
+  border-radius: 16px;
+  background-color: #e7fbcf;
+  border: 0.6px solid #c5dbab;
+  box-sizing: border-box;
+  height: 214px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 6.97px;
+  font-family: Inter;
+}
+.frameParent3 {
+  box-shadow: -2px 2px 4px rgba(24, 109, 128, 0.05);
+  border-radius: 24px;
+  background-color: #fff;
+  border: 0.5px solid #e0e0e0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 32px;
+  gap: 48px;
+}
+.frameParent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 56px;
+}
+.vuesaxlinearbankIcon {
+  width: 33.5px;
+  position: relative;
+  height: 33.5px;
+}
+.vuesaxlinearbankWrapper {
+  border-radius: 16px;
+  background-color: #111;
+  border: 1px solid #5d5d5d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 16.8px;
+}
+.frameInner {
+  width: 77px;
+  position: relative;
+  max-height: 100%;
+}
+.frameIcon {
+  width: 48px;
+  position: relative;
+  height: 48px;
+}
+.frameWrapper1 {
+  width: 68px;
+  border-radius: 16px;
+  background-color: #fdfdfd;
+  border: 2px solid #8fc253;
+  box-sizing: border-box;
+  height: 67px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16.8px;
+}
+.frameParent8 {
+  position: absolute;
+  top: calc(50% - 33px);
+  left: calc(50% - 109.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.frameWrapper {
+  width: 269px;
+  position: relative;
+  border-radius: 16px;
+  background-color: #fdfdfd;
+  border: 0.6px solid #e0e0e0;
+  box-sizing: border-box;
+  height: 214px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameChild1 {
+  width: 269.7px;
+  position: relative;
+  border-radius: 12px;
+  height: 214px;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 56px;
+}
+.downloadApp {
+  position: relative;
+  font-weight: 500;
+}
+.component1Icon3 {
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.lineDiv {
+  width: 0.5px;
+  position: relative;
+  border-right: 0.5px solid #474646;
+  box-sizing: border-box;
+  height: 15.5px;
+}
+.component1Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.downloadAppParent {
+  box-shadow: 0px -4px 0px rgba(148, 197, 87, 0.55) inset,
+    0px 4px 0px rgba(149, 178, 113, 0.25) inset;
+  border-radius: 33px;
+  background-color: #afe274;
+  border: 1px solid #a4c47d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+  gap: 12px;
+  font-size: 18px;
+  color: #242323;
+}
+.frameContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 64px;
+  font-size: 20px;
+  color: #000;
+}
+.frameParent {
+  position: absolute;
+  top: 107px;
+  left: calc(50% - 465px);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 64px;
+}
+.steps {
+  width: 100%;
+  position: relative;
+  background-color: #fafafa;
+  height: 1603px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 10px;
+  color: #2f2f2f;
+  font-family: Avenir;
+}
+
+/* Reduce padding for tablets */
+@media (max-width: 1024px) {
+  .steps {
+    padding: 60px 50px;
+  }
+  .frameParent {
+    flex-direction: column;
+    gap: 40px;
+  }
+}
+
+/* Adjust layout for mobile screens */
+@media (max-width: 768px) {
+  .steps {
+    padding: 40px 30px;
+  }
+  .frameParent {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .frameContainer {
+    flex-direction: column;
+    gap: 24px;
+    padding: 20px;
+  }
+  .frameGroup {
+    width: 100%;
+    text-align: center;
+  }
+  .lightningFilledParent {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .component23Parent {
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+}
+
+/* Extra small screens (phones) */
+@media (max-width: 480px) {
+  .steps {
+    padding: 20px 15px;
+  }
+  .frameGroup {
+    width: 100%;
+  }
+  .whatTrulySets {
+    font-size: 28px;
+  }
+  .globalAccessibility {
+    font-size: 16px;
+  }
+  .effortlesslySendTuition {
+    font-size: 12px;
+  }
+  .downloadAppParent {
+    flex-direction: column;
+    width: 100%;
+  }
+  .frameIcon {
+    width: 36px;
+    height: 36px;
+  }
+}

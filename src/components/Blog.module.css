@@ -1,0 +1,248 @@
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.blog1 {
+  position: relative;
+  text-transform: uppercase;
+}
+.lightningFilledParent {
+  box-shadow: 0px 3px 4px rgba(125, 137, 78, 0.04) inset,
+    0px -4px 4px rgba(237, 248, 195, 0.1) inset;
+  border-radius: 16px;
+  background-color: rgba(175, 226, 116, 0.2);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 8px 16px;
+  gap: 10px;
+}
+.latestBlog {
+  width: 767px;
+  position: relative;
+  font-size: 48px;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  display: flex;
+  font-family: "Cabinet Grotesk";
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.frameWrapper {
+  width: 998px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frameChild {
+  align-self: stretch;
+  position: relative;
+  border-radius: 12px;
+  max-width: 100%;
+  overflow: hidden;
+  height: 243px;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading4 {
+  width: 375px;
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+}
+.heading4KnowingWhichCoveWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.arrowRight02SharpIcon {
+  width: 33.9px;
+  position: relative;
+  height: 33.9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.arrowRight02SharpWrapper {
+  border-radius: 55px;
+  background-color: #afe274;
+  border: 1px solid #afe274;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px;
+}
+.frameParent2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frameParent1 {
+  width: 376px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 39px;
+}
+.heading41 {
+  width: 370px;
+  position: relative;
+  line-height: 32px;
+  display: inline-block;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 45px;
+}
+.arrowLeftIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.arrowLeftWrapper {
+  box-shadow: -1px 2px 4px rgba(65, 131, 63, 0.12);
+  border-radius: 22px;
+  background-color: #fff;
+  border: 0.5px solid #f6f6f6;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px;
+}
+.frameParent7 {
+  width: 154px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 64px;
+  font-size: 22px;
+  color: #242323;
+  font-family: "Cabinet Grotesk";
+}
+.frameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.blog {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 80px 104px 40px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 10px;
+  color: #2f2f2f;
+  font-family: Avenir;
+}
+
+/* 📌 Tablet (≤1024px) */
+@media (max-width: 1024px) {
+  .blog {
+    padding: 60px 60px 30px;
+  }
+  .latestBlog {
+    font-size: 40px;
+  }
+  .frameWrapper {
+    width: 90%;
+  }
+  .frameChild {
+    height: 200px;
+  }
+  .frameParent {
+    gap: 60px;
+  }
+}
+
+/* 📌 Mobile (≤768px) */
+@media (max-width: 768px) {
+  .blog {
+    padding: 40px 30px;
+    text-align: center;
+  }
+  .latestBlog {
+    width: 100%;
+    font-size: 32px;
+  }
+  .frameWrapper {
+    width: 100%;
+  }
+  .frameChild {
+    height: 180px;
+  }
+  .heading4 {
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+  }
+  .arrowRight02SharpWrapper {
+    padding: 6px;
+  }
+  .frameParent {
+    gap: 40px;
+  }
+}
+
+/* 📌 Extra Small Screens (≤480px) */
+@media (max-width: 480px) {
+  .blog {
+    padding: 20px;
+  }
+  .latestBlog {
+    font-size: 24px;
+  }
+  .frameWrapper {
+    width: 100%;
+  }
+  .frameChild {
+    height: 150px;
+  }
+  .heading4 {
+    font-size: 16px;
+    line-height: 28px;
+  }
+  .frameParent {
+    gap: 30px;
+  }
+}
+.activeImage {
+  border: 2px solid #ff9900; /* Highlight with border */
+  transform: scale(1.1); /* Slight zoom effect */
+}

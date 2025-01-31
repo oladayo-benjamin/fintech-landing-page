@@ -1,0 +1,625 @@
+.gridLayersV3 {
+  position: absolute;
+  top: -91px;
+  left: -156px;
+  width: 1775.1px;
+  height: 1533px;
+}
+.lightningFilledIcon {
+  width: 14px;
+  position: relative;
+  height: 14px;
+}
+.secureGlobalFast {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.lightningFilledParent {
+  box-shadow: 1px 2px 8px rgba(73, 86, 71, 0.08);
+  border-radius: 32px;
+  background-color: #e9f8d8;
+  border: 0.5px solid #a0c07b;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 4px 8px;
+  gap: 6px;
+}
+.reliablePaymentSolutions {
+  width: 834px;
+  position: relative;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.theEasiestAnd {
+  width: 652px;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: -0.01em;
+  line-height: 28px;
+  font-family: Avenir;
+  color: #666565;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.reliablePaymentSolutionsForParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.downloadApp {
+  position: relative;
+  font-weight: 500;
+}
+.component1Icon {
+  width: 20px;
+  position: relative;
+  height: 20px;
+}
+.frameChild {
+  width: 0.5px;
+  position: relative;
+  border-right: 0.5px solid #474646;
+  box-sizing: border-box;
+  height: 15.5px;
+}
+.component1Parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.downloadAppParent {
+  box-shadow: 0px -4px 0px rgba(148, 197, 87, 0.55) inset,
+    0px 4px 0px rgba(149, 178, 113, 0.25) inset;
+  border-radius: 33px;
+  background-color: #afe274;
+  border: 1px solid #a4c47d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+  gap: 12px;
+}
+.playCircleIcon {
+  width: 24px;
+  position: relative;
+  height: 24px;
+}
+.watchDemoParent {
+  border-radius: 33px;
+  background-color: #f4f8ef;
+  border: 1px solid #afe274;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 32px;
+  gap: 12px;
+}
+.frameDiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  text-align: left;
+  font-size: 18px;
+  color: #242323;
+  font-family: Avenir;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+  text-align: center;
+  font-size: 64px;
+  color: #2f2f2f;
+  font-family: "Cabinet Grotesk";
+}
+.frameGroup {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 27px;
+}
+.frameItem {
+  width: 32px;
+  position: relative;
+  border-radius: 50%;
+  height: 32px;
+  object-fit: cover;
+}
+.frameInner {
+  width: 32px;
+  position: relative;
+  border-radius: 50%;
+  height: 32px;
+  object-fit: cover;
+  margin-left: -8px;
+}
+.ellipseParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.trustedBy3k {
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 28px;
+}
+.frameParent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: 16px;
+  color: #666565;
+}
+.frameParent {
+  position: absolute;
+  top: 265px;
+  left: calc(50% - 460px);
+  width: 920px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 32px;
+  font-size: 10px;
+}
+.leadingBrandsPartner {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: -0.01em;
+  line-height: 28px;
+  text-transform: uppercase;
+}
+.webpIcon {
+  width: 178.1px;
+  position: relative;
+  border-radius: 4px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.webpIcon1 {
+  width: 183.9px;
+  position: relative;
+  border-radius: 4px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.webpIcon3 {
+  width: 190.2px;
+  position: relative;
+  border-radius: 4px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.webpIcon4 {
+  width: 137px;
+  position: relative;
+  border-radius: 4px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.webpIcon5 {
+  width: 193.4px;
+  position: relative;
+  border-radius: 4px;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.webpParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.leadingBrandsPartnerWithUsParent {
+  position: absolute;
+  top: calc(50% - 48px);
+  left: calc(50% - 640px);
+  width: 1280px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 29px;
+}
+.heroInner {
+  position: absolute;
+  top: 1528px;
+  left: calc(50% - 720px);
+  background-color: #fff;
+  width: 1440px;
+  height: 226px;
+  overflow: hidden;
+  text-align: center;
+  color: #848484;
+}
+.component1Icon1 {
+  width: 128px;
+  position: relative;
+  height: 27.2px;
+}
+.lineIcon {
+  width: 14px;
+  position: relative;
+  max-height: 100%;
+}
+.homeParent {
+  width: 43px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+}
+.frameParent2 {
+  filter: drop-shadow(1px 2px 13px rgba(49, 54, 68, 0.04));
+  border-radius: 66px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 12px 32px;
+  gap: 32px;
+}
+.downloadAppGroup {
+  box-shadow: 0px -4px 0px rgba(148, 197, 87, 0.55) inset,
+    0px 4px 0px rgba(149, 178, 113, 0.25) inset;
+  border-radius: 33px;
+  background-color: #afe274;
+  border: 1px solid #a4c47d;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 16px 24px;
+  gap: 12px;
+  text-align: left;
+  color: #242323;
+}
+.component1Group {
+  position: absolute;
+  top: 48px;
+  left: calc(50% - 483px);
+  border-radius: 44px;
+  background-color: #242323;
+  width: 966px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px 8px 8px 16px;
+  box-sizing: border-box;
+  text-align: center;
+  color: #f6f6f6;
+}
+.component22Child {
+  position: absolute;
+  height: 100%;
+  width: 96.61%;
+  top: 0%;
+  right: 3.39%;
+  bottom: 0%;
+  left: 0%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.walletBalance {
+  position: relative;
+  line-height: 10.88px;
+  font-weight: 500;
+}
+.b {
+  position: relative;
+  line-height: 130%;
+}
+.eyeIcon {
+  width: 15.3px;
+  position: relative;
+  height: 15.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 11.7px;
+  font-size: 24.88px;
+  color: #141414;
+}
+.walletBalanceParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.dollar01Icon {
+  width: 12.4px;
+  position: relative;
+  height: 12.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.usd {
+  position: relative;
+  line-height: 10.88px;
+  background: linear-gradient(#fff, #fff), linear-gradient(#fff, #fff), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.dollar01Parent {
+  box-shadow: 0px 3.109947681427002px 3.11px rgba(0, 0, 0, 0.08);
+  border-radius: 31.1px;
+  background-color: #545358;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 6.2px 12.4px;
+  gap: 6.2px;
+  font-size: 9.33px;
+}
+.frameParent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 18.7px;
+}
+.addIcon {
+  width: 12.8px;
+  position: relative;
+  height: 12.8px;
+}
+.addParent {
+  box-shadow: 0px 1.554973840713501px 1.55px rgba(0, 0, 0, 0.04);
+  border-radius: 31.1px;
+  background-color: #fff;
+  border: 0.8px solid #efeff9;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 9.3px 12.4px;
+  gap: 6.2px;
+}
+.frameParent6 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.ellipseDiv {
+  width: 4.4px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #acdb7c;
+  height: 4.4px;
+}
+.frameChild2 {
+  width: 4.4px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  height: 4.4px;
+}
+.ellipseGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2.9px;
+}
+.frameParent5 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  color: #000;
+}
+.frameParent3 {
+  position: absolute;
+  height: 19.78%;
+  width: 26.47%;
+  top: 36.17%;
+  right: 0%;
+  bottom: 44.05%;
+  left: 73.53%;
+  box-shadow: 0px 2.2081785202026367px 4.42px rgba(0, 0, 0, 0.12);
+  border-radius: 12.44px;
+  background-color: #fff;
+  border: 0.8px solid #efeff9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18.7px;
+  gap: 18.7px;
+  text-align: center;
+  font-size: 10.88px;
+  color: #5c687d;
+}
+.image9Icon {
+  width: 46px;
+  position: relative;
+  height: 43px;
+  object-fit: cover;
+}
+.iconoirstarSolid {
+  width: 12px;
+  position: relative;
+  height: 12px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.iconoirstarSolidParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2px;
+}
+.starGoogleRating {
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frameParent7 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.image9Parent {
+  position: absolute;
+  height: 9.17%;
+  width: 20.29%;
+  top: 61.97%;
+  right: 68.92%;
+  bottom: 28.86%;
+  left: 10.78%;
+  box-shadow: 0px 2.2081785202026367px 4.42px rgba(0, 0, 0, 0.12);
+  border-radius: 12.44px;
+  background-color: #fff;
+  border: 0.8px solid #efeff9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px;
+  gap: 18.7px;
+}
+.image134Icon {
+  width: 44px;
+  position: relative;
+  height: 44px;
+  object-fit: cover;
+}
+.backedBy {
+  margin: 0;
+}
+.backedByTechstarsWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.image134Parent {
+  position: absolute;
+  height: 9.85%;
+  width: 14.14%;
+  top: 17.92%;
+  right: 68.12%;
+  bottom: 72.23%;
+  left: 17.74%;
+  box-shadow: 0px 2.2081785202026367px 4.42px rgba(0, 0, 0, 0.12);
+  border-radius: 12.44px;
+  background-color: #fff;
+  border: 0.8px solid #efeff9;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px;
+  gap: 18.7px;
+}
+.component22 {
+  position: absolute;
+  top: 797px;
+  left: 178px;
+  width: 1122px;
+  height: 731px;
+  color: #2f2f2f;
+  font-family: "Cabinet Grotesk";
+}
+.hero {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 1782px;
+  overflow: hidden;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 16px;
+  color: #3b3a3a;
+  font-family: Avenir;
+}
+
+@media (max-width: 1024px) {
+  .steps {
+    padding: 60px 50px;
+  }
+  .frameParent {
+    flex-direction: column;
+    gap: 40px;
+  }
+}
+
+@media (max-width: 768px) {
+  .steps {
+    padding: 40px 30px;
+  }
+  .frameParent,
+  .frameContainer,
+  .frameGroup {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  .lightningFilledParent {
+    flex-direction: column;
+    gap: 8px;
+  }
+  .downloadAppParent,
+  .watchDemoParent {
+    width: 90%;
+    padding: 12px 24px;
+  }
+}
